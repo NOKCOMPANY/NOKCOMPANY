@@ -1,14 +1,17 @@
-![github_follow](https://img.shields.io/github/followers/naiclos?style=social)
-![twitter_follow](https://img.shields.io/twitter/follow/naiclos?style=social)
-![donate_keybase](https://img.shields.io/keybase/xlm/nicolaso)
+![github_follow](https://github.com/NOKCOMPANY)
+![LINKEDIN_follow](https://www.linkedin.com/company/nokchile/)
 
-# @naiclos
-> Robotic Process Automation Engineer, designer, and developer 🇨🇱
+# @nokcompany
+> Robotic Process Automation Enterprise 🇨🇱
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=nokcompany&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nokcompany&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nokcompany&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### &#x1f4c8; Stats
+---
+[![](https://visitcount.itsvg.in/api?id=nokcompany&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![naiclos GitHub stats](https://github-readme-stats.vercel.app/api?username=naiclos&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🧰 Toolbox
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
@@ -17,7 +20,7 @@
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height=32, width=32, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 
-#### 📚 My Latest Articles
+#### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [¿Qué es una cooperativa?](https://medium.com/telluscoop/qu%C3%A9-es-una-cooperativa-un-analisis-en-chile-121ab4316bdc)
 - [El impacto de los bots en las redes sociales](https://medium.com/@N0rt1z/el-impacto-de-los-bots-en-las-redes-sociales-70932266dc9a)
